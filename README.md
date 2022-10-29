@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack engineer
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on any ineresting project
-- 📫 How to reach me ...
+- 📫 How to reach me 302379325@163.com
 
 <!---
 rui-a-yang/rui-a-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
